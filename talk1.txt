@@ -175,3 +175,27 @@ we live on too many empty promises
 	them, it is dangerous to use.
 	not everything that solves a problem has to become a generic
 	solution. going generic always come with bloat.
+
+we won't achieve much punishment
+	our end users should never have to change enironment because
+	of our code (other reasons, of course, apply)
+	blaming the tool is a sign of bad craftsman, good craftsmen
+	improve the tools by feeding back to the tool maker
+	it is not your fault you're not too stupid, we just liek to
+	show off too much.
+
+love and passion trumphs everything
+
+love responsibily <3
+	everything you do is for your end users - great UX is
+	invisible, so should our code issues
+	what you use and makes you happy is not what others have -
+	consider yourself lucky, not better
+	if you love the web, keep it clean - remove outdated code,
+	keep helper tools up-to-date
+	it is people like you who created the things that annoy you
+	- explain your issue, ask for reason's and you'll see fixes
+	good things take time - let's slow down our pace and build
+	better, not faster.
+
+@codepo8
