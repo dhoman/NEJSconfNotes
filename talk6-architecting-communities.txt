@@ -1,0 +1,35 @@
+history of techlahoma
+
+what have we learned?
+	what we do matters
+	we had to cooperate
+	we had to get organized
+	we had to learn from our craft
+	community architecture
+
+core activities
+	design
+	construction
+	disciplines
+
+https://github.com/amandaharlin/architecting-communities
+
+TRAIL
+
+Transparency
+Longevity
+	what ahppens if your leaders step down or move away?
+	are you planning for the future?
+	is your group survivable?
+
+Patterns
+	adopt a git based workflow
+
+
+Standardize source control for usergroup websites
+
+
+import tools and ideas from agile
+	easy to delegate volunteer tasks
+
+

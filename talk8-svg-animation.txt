@@ -1,0 +1,12 @@
+why svg?
+	resolution independent
+	lightweight
+	styleable
+	interactive
+	accessible
+
+why animate?
+	create fluid transitions
+	provide visual feedback
+	guide the user
+	create an emotional response
