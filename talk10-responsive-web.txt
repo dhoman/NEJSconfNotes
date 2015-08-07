@@ -1,0 +1,173 @@
+a map of NYC
+	john randel, jr. dude who made the map of NYC
+
+became one of the three NYC st commissioners
+
+in late 18th century
+manhatten 125k, most of the population lived in the SW tip
+	most of island was sprawled with private estates
+	not overlapping but two cities on the same island
+
+1807 comission of streets and roads
+	appointed John randel, jr. was chief engineer and surveyor
+
+4 years, to produce 3 maps (9ft ) maps of the intersections of
+the island
+
+magic to mapmaking
+
+provide bouundary and scope
+"to put a city ina  book, to put the world on one sheet of
+paper- maps are the most condensed humanized spaces of all" -
+robert something and another
+
+research -> design -> deelop -> launch
+
+we are basically on a daily basis making a map of the web.
+
+and most of the time we are developing our maps for one device
+and then mobile broke our maps. by changing how we access the
+web
+
+responsive web design
+about embracing the flexibility of the web by leveraging it to
+allow us to design
+
+RWD isnt' the answer to every problem cause it's not
+
+editorially
+
+really only 3 ingredients to any RWD
+fluid grids
+flexible images
+media queries
+
+fluid grid
+	target % grid = result
+
+learning to love :nth child()
+	3 grid
+	:nth-child(3n) right most column
+	:nth-child(3n+1) left most column
+
+media queries
+	for major and minor adjustments
+
+baseline
+breakpoints at width to make it two column layout
+media screen and (min-width: 80em)
+
+we can create a design that doesn't nessarily have one best
+viewed on whatever design
+
+designing a network a network of small layout systems
+loosely bound to other elements around them
+
+the mast
+	sort tasks into logical groups
+	
+breakpoints are defined by the needs of the content / layout
+system
+	don't focus on the devices or screen sizes
+
+content out
+	can't keep up with the number of devices out there
+	so we need to focus on designing around the content as
+	opposed to the devices
+
+i think you have to face the music - responsive design makes it
+very hard to write a fast website.
+	-guy podjarny
+
+2009
+	avg 320kb
+2015
+	avg 2.1mb
+
+alfred korzybski
+	rheotrical divide
+	language is never going to be able to fully describe
+	something
+
+	the map is not the territory
+	you are looking at an abstraction
+	something is going to get left out
+
+	the more accure the map, the more it resembles the
+	territory. the most accurate map possible would be the
+	territory......???
+
+dhaka is classified as a megacity
+15.4m inhabitants
+134 square miles
+
+900% more internet users in 2011
+
+africa 60% mobile penetration
+700m mobile phones
+more people have pmobile phones than electricity
+
+half of kenya's gdp moves through mobile money
+
+m-maji
+compare water vendors
+
+designed for reac
+
+
+7 billion mobile subs in 2013
+60% sub 3g networks
+
+9bill est in 2017
+36% will be on edge
+
+a new normal
+these regions are the new types of users that we are going to be
+seeing in the worldwide state of users accessing the web
+
+back to NYC analogy
+randal had to plan for balance of the private estates (the
+privilaged) and the future growth (the populated SW corner of
+NYC)
+
+he was planning for a better version fo NYC that didn't exist at
+the time
+
+??? ... to promote the health of the city.
+
+how can we promote the health of the web?
+
+lets begin a cnversation about sustainability in web design
+
+reduce and revisit
+
+reduce
+we noticed a sharp decline in conversation rate as avg site load
+times increases from 1 to 4 seconds
+
+clearleft.com/thinks/responsivedesignonabudget/
+
+our pages should weight no more than 300kb
+should take no more than 3secs to load over a sub 3g connection
+
+revisit
+the old idea of progressive enhancement
+bbc site
+ basic and enhanced version
+
+ cutting the mustard
+ browser check and add js loaders for the enhancements
+ otherwise just show the basic experience
+
+ we don't have any non-JS users
+ no all yoru users are nonjs while they're downloading your JS
+
+ rolling up the map
+
+ what works is better than what looks good. the 'looks good' can
+ change, but what works, works
+
+ a new definition of "beautiful"
+
+@beep
+ethanmarcotte.com

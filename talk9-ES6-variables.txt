@@ -1,0 +1,9 @@
+@imurchie
+https://github.com/imurchie/nejs-presentation
+
+Block scoping
+
+everything is function scope
+
+so if you want a locally scoped variable, you need an
+immediately invoked function expression
