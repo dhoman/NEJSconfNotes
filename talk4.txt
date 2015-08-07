@@ -1,0 +1,3 @@
+https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path
+http://ponyfoo.com/
+https://github.com/ponyfoo
