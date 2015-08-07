@@ -1,3 +1,7 @@
+https://github.com/julia67/snap
+http://julia.nightbirdstudios.com/
+
+
 why svg?
 	resolution independent
 	lightweight
@@ -10,3 +14,15 @@ why animate?
 	provide visual feedback
 	guide the user
 	create an emotional response
+
+the goal of animating a function is to transitioning things like
+in a real world. in the real world things dont just abruptly
+change, ice cube just doesn't instantly become a puddle, it's a
+gradual change. without the transition context is lost
+
+animations can guide a user's intentions, and let people know
+whats next, and can illict an emotional response
+
+why snap?
+
+
