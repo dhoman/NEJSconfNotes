@@ -1,0 +1,46 @@
+thesis
+	streams are most awesome data structure that you don't know
+	about **something like that**
+
+agenda
+	1. streams? streams
+	2. streams in javascript
+	3. ??????
+
+history
+	unix!
+	all glory to "pipe" |||||
+
+streams are an abstract data structure
+
+sicp (badass book)
+	"streams are delayed lists"
+
+why streams?
+	can't don't want to hold everything in memory
+	bandwidth is expensive
+
+represent possibly infinite data
+
+what are somet things that don't have an end
+	nature numbers
+	weather
+	user input
+	large data sets*
+	your heartbeat*
+
+"stream processing lets us model systems that have state without
+eer using assignment or mutable data." - scip
+
+push & pull modes
+	push: firehose
+		callbacks
+		nonblocking
+		downside is possbile overload
+	pull: more please
+		iterators
+		blocking
+		timeout (never ever block forever)
+
+node streams are push streams
+
