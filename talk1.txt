@@ -141,3 +141,37 @@ the problems with transpiling:
 	in the browser - probably the thing that made the web grow
 	as fast as it did
 	you don't run or debug the code you write
+	you're at the mercy of the transpiler to create effiient
+	code
+	you create probably much more code than you need
+	browsers that supprot ES6 will never get any.
+
+how does it perform compared to ES5
+	some link i didn't get...in general its slower except for
+	the new features
+
+the ES6 conundrum
+	we cant use it safely in the wild
+	we can use typescript or transpile it
+	we can feature test for it, but that can get complex quickly
+	browsers that support it, will not get any ES6 that way (but
+	can use it internally)
+	the performance is bad right now (which is normal.) to
+	improve this, we need ES6 to be use din thew ild
+
+help ES6 by looking at its unit tests
+	http://github.com/tc39/test262
+	http://es6katas.org
+
+lets go back to a good principle of html5 design
+	"in case of conflict, consider users over authors over
+	implmentors over specifiers over theoretical purity."
+
+we live on too many empty promises
+	tooling will save us in lots of cases, but we shouldn't have
+	to counter bad decisions of the past with more code
+	it is great and necessary that borwsers innovate at
+	different speeds, but unless that innovation lands in all of
+	them, it is dangerous to use.
+	not everything that solves a problem has to become a generic
+	solution. going generic always come with bloat.
