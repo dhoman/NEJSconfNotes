@@ -111,3 +111,33 @@ things i learned working for browser makers
 	when implementing standards, we find a lot of problems and
 	feed them back. that's why a score of 100% in feature tests
 	make no sense.
+	most speed increases are based on analysing and fixing
+	developer issues ** missed some stuff**
+
+we're stuck in a loop of demand and flawed supply..
+
+and now we need to concentrate on getting one thing right...
+
+ES6 comes with so much goodness, technically it must be fatting
+
+all of these parts have different audiences
+	syntactic sugar
+	scalable apps
+	library builders
+
+support is encouraging, but also patchy
+	http://kangax*******
+
+the problem: for non-supporting browsers, ES6 are syntax errors
+
+turns out, you can feature test ES6
+	http://featuretests.io
+
+if you want to use it all: transpiling into ES5
+	babel
+
+the problems with transpiling:
+	it adds an extra step in between writing code and running it
+	in the browser - probably the thing that made the web grow
+	as fast as it did
+	you don't run or debug the code you write
