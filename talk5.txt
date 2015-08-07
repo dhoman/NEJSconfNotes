@@ -1,0 +1,7 @@
+isomorphic angular
+	trying to preinitial the client browser so it doesnt' have
+	to make as many server calls
+
+	https://github.com/brucecoddington?tab=repositories
+
+
