@@ -44,3 +44,12 @@ push & pull modes
 
 node streams are push streams
 
+generators
+	(aka: pull streams)
+	ask for more when you want more
+	
+you know its a generator when
+	function *
+	yield
+
+http://pselle.github.io/omgstreams/#1
